@@ -1,0 +1,21 @@
+  <!-- Products Section -->
+    <section id="products">
+        <h2>Traditional Products</h2>
+        <div class="product-list">
+            <div class="product">
+                <img src="https://via.placeholder.com/300" alt="Traditional Bhutanese Dress">
+                <h3>Traditional Bhutanese Dress</h3>
+                <p>A symbol of Bhutan’s culture, the 'Gho' for men and 'Kira' for women.</p>
+            </div>
+            <div class="product">
+                <img src="https://via.placeholder.com/300" alt="Handicrafts">
+                <h3>Handicrafts</h3>
+                <p>Beautiful handwoven textiles, pottery, and woodwork that showcase the skills of Bhutanese artisans.</p>
+            </div>
+            <div class="product">
+                <img src="https://via.placeholder.com/300" alt="Bhutanese Paintings">
+                <h3>Bhutanese Paintings</h3>
+                <p>Traditional Thangka paintings that depict spiritual and cultural scenes of Bhutan.</p>
+            </div>
+        </div>
+    </section>
